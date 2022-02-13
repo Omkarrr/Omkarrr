@@ -1,7 +1,6 @@
 <h1 align="center">Hola Amigos 👋, I'm Omkar Komarpant</h1>
 <h3 align="center">A passionate backend developer from India currently a student studying at DY Patil University Maharashtra.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkarrr" alt="omkarrr" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/omkar_k_" target="blank"><img src="https://img.shields.io/twitter/follow/omkar_k_?logo=twitter&style=for-the-badge" alt="omkar_k_" /></a> </p>
 
