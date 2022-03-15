@@ -1,6 +1,8 @@
 <h1 align="center">Hola Amigos 👋, I'm Omkar Komarpant</h1>
 <h3 align="center">A passionate backend developer from India currently a student studying at DY Patil University Maharashtra.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarrr&label=Profile%20views&color=0e75b6&style=plastic" alt="omkarrr" /> </p>
+
 - 🔭 I’m currently working on **Data Structure and Algorithm**
 
 - 🌱 I’m currently learning **React JS,Python**
