@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Awesome projects**
 
-- 🤝 I’m looking for help with **Full Stack Decelopment**
+- 🤝 I’m looking for help with **Full Stack Development**
 
 - 💬 Ask me about **Any Tech related stuff**
 
