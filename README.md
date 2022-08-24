@@ -1,4 +1,3 @@
-![welcome to my LinkedIn (2)](https://user-images.githubusercontent.com/37860693/183300885-a1bbb70f-cacd-4f2f-aca4-ba0f220bd19b.png)
 
 <h1 align="center">Namaste🙏🏻, I'm Omkar Komarpant</h1>
 <h3 align="center">A passionate backend developer from India currently a student studying at DY Patil University Maharashtra.</h3>
